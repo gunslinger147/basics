@@ -1,1 +1,1 @@
-# basics
+all about basics
